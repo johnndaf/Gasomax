@@ -4308,3 +4308,322 @@
 06-27-2016 @ 13:31:26 - Cart only with virtual products.
 06-27-2016 @ 13:33:54 - Cart only with virtual products.
 06-27-2016 @ 13:33:56 - Cart only with virtual products.
+06-27-2016 @ 14:55:32 - Cart only with virtual products.
+06-27-2016 @ 15:36:25 - Cart only with virtual products.
+06-27-2016 @ 15:36:26 - Cart only with virtual products.
+06-27-2016 @ 15:36:36 - Cart only with virtual products.
+06-27-2016 @ 15:36:44 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 15:36:44 - Requesting the Correios WebServices...
+06-27-2016 @ 15:36:45 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:45 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:45 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:47 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 15:36:47 - Requesting the Correios WebServices...
+06-27-2016 @ 15:36:47 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:47 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:47 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:48 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 15:36:48 - Requesting the Correios WebServices...
+06-27-2016 @ 15:36:48 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:48 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:48 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:49 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 15:36:49 - Requesting the Correios WebServices...
+06-27-2016 @ 15:36:50 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:50 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:36:50 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:37:17 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 15:37:17 - Requesting the Correios WebServices...
+06-27-2016 @ 15:37:17 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:37:17 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 15:37:17 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
