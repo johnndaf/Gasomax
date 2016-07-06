@@ -4627,3 +4627,2550 @@
 
 )
 
+06-27-2016 @ 16:03:25 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:03:25 - Requesting the Correios WebServices...
+06-27-2016 @ 16:03:26 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:26 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:26 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:27 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:03:27 - Requesting the Correios WebServices...
+06-27-2016 @ 16:03:27 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:27 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:27 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:52 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:03:52 - Requesting the Correios WebServices...
+06-27-2016 @ 16:03:52 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:52 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:52 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:53 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:03:53 - Requesting the Correios WebServices...
+06-27-2016 @ 16:03:53 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:53 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:03:53 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:50 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:49:50 - Requesting the Correios WebServices...
+06-27-2016 @ 16:49:50 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:50 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:50 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:51 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:49:51 - Requesting the Correios WebServices...
+06-27-2016 @ 16:49:51 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:51 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:51 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:53 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:49:53 - Requesting the Correios WebServices...
+06-27-2016 @ 16:49:53 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:53 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:53 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:54 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:49:54 - Requesting the Correios WebServices...
+06-27-2016 @ 16:49:54 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:54 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:54 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:58 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 16:49:58 - Requesting the Correios WebServices...
+06-27-2016 @ 16:49:58 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:58 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 16:49:58 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 17:00:05 - Weight and cubage of the order: Array
+(
+    [height] => 3.2
+    [length] => 16
+    [width] => 11
+    [weight] => 0.1
+)
+
+06-27-2016 @ 17:00:05 - Requesting the Correios WebServices...
+06-27-2016 @ 17:00:06 - Correios WebServices response [PAC]: SimpleXMLElement Object
+(
+    [Codigo] => 41106
+    [Valor] => 16,10
+    [PrazoEntrega] => 5
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => N
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 17:00:06 - Correios WebServices response [SEDEX]: SimpleXMLElement Object
+(
+    [Codigo] => 40010
+    [Valor] => 16,10
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 16,10
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-27-2016 @ 17:00:06 - Correios WebServices response [SEDEX 10]: SimpleXMLElement Object
+(
+    [Codigo] => 40215
+    [Valor] => 26,00
+    [PrazoEntrega] => 1
+    [ValorSemAdicionais] => 26,00
+    [ValorMaoPropria] => 0,00
+    [ValorAvisoRecebimento] => 0,00
+    [ValorValorDeclarado] => 0,00
+    [EntregaDomiciliar] => S
+    [EntregaSabado] => S
+    [Erro] => 0
+    [MsgErro] => SimpleXMLElement Object
+        (
+        )
+
+)
+
+06-28-2016 @ 10:09:20 - Weight and cubage of the order: Array
+(
+    [weight] => 0,2
+    [height] => 4,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 10:09:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=4,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,2&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 10:09:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 10:09:33 - Weight and cubage of the order: Array
+(
+    [weight] => 0,2
+    [height] => 4,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 10:09:33 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=4,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,2&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 10:09:33 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 10:58:50 - Weight and cubage of the order: Array
+(
+    [weight] => 0,3
+    [height] => 5,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 10:58:50 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=5,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,3&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 10:58:51 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 10:58:56 - Weight and cubage of the order: Array
+(
+    [weight] => 0,3
+    [height] => 5,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 10:58:56 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=5,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,3&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 10:58:56 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 11:05:20 - Weight and cubage of the order: Array
+(
+    [weight] => 0,3
+    [height] => 5,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 11:05:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=5,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,3&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 11:05:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 16:29:54 - Weight and cubage of the order: Array
+(
+    [weight] => 0,3
+    [height] => 5,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 16:29:54 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=5,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,3&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 16:29:54 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 16:30:13 - Weight and cubage of the order: Array
+(
+    [weight] => 0,3
+    [height] => 5,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 16:30:13 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=5,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,3&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 16:30:13 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 26,00
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 26,00
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 16:45:42 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 16:45:42 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 16:45:42 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 16:51:48 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 16:51:48 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 16:51:48 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 16:53:14 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 16:53:14 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 16:53:15 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:04:56 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:04:56 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:04:57 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:05:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:05:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:05:57 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:07:18 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:07:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:07:19 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:07:20 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:07:20 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:07:21 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:18:17 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:18:17 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:18:18 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:18:57 - Weight and cubage of the order: Array
+(
+    [weight] => 0,6
+    [height] => 7,7
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:18:57 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,7&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,6&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:18:58 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:19:42 - Weight and cubage of the order: Array
+(
+    [weight] => 0,7
+    [height] => 8,4
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:19:42 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=8,4&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,7&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:19:42 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:30:15 - Weight and cubage of the order: Array
+(
+    [weight] => 0,7
+    [height] => 8,4
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:30:15 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=8,4&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,7&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:30:16 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:30:18 - Weight and cubage of the order: Array
+(
+    [weight] => 0,7
+    [height] => 8,4
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:30:18 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=8,4&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,7&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:30:19 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:30:19 - Weight and cubage of the order: Array
+(
+    [weight] => 0,7
+    [height] => 8,4
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:30:19 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=8,4&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,7&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:30:20 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:31:49 - Weight and cubage of the order: Array
+(
+    [weight] => 0,9
+    [height] => 9,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:31:49 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=9,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,9&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:31:49 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:32:30 - Weight and cubage of the order: Array
+(
+    [weight] => 0,9
+    [height] => 9,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:32:30 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=9,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,9&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:32:30 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:36:10 - Weight and cubage of the order: Array
+(
+    [weight] => 0,9
+    [height] => 9,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:36:10 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=9,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,9&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:36:11 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:36:12 - Weight and cubage of the order: Array
+(
+    [weight] => 0,9
+    [height] => 9,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:36:12 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=9,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,9&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:36:12 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:36:26 - Weight and cubage of the order: Array
+(
+    [weight] => 0,9
+    [height] => 9,5
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:36:26 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=9,5&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,9&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:36:26 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:38:37 - Weight and cubage of the order: Array
+(
+    [weight] => 0,5
+    [height] => 7,1
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:38:37 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=7,1&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,5&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:38:38 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+
+06-28-2016 @ 17:40:44 - Weight and cubage of the order: Array
+(
+    [weight] => 0,4
+    [height] => 6,3
+    [width] => 11
+    [length] => 16
+)
+
+06-28-2016 @ 17:40:44 - Requesting Correios WebServices: http://ws.correios.com.br/calculador/CalcPrecoPrazo.aspx?nCdServico=41106,40010,40215&nCdEmpresa&sDsSenha&sCepDestino=82720250&sCepOrigem=82720250&nVlAltura=6,3&nVlLargura=11&nVlDiametro=0&nVlComprimento=16&nVlPeso=0,4&nCdFormato=1&sCdMaoPropria=N&nVlValorDeclarado=0&sCdAvisoRecebimento=N&StrRetorno=xml
+06-28-2016 @ 17:40:45 - Correios WebServices response: SimpleXMLElement Object
+(
+    [cServico] => Array
+        (
+            [0] => SimpleXMLElement Object
+                (
+                    [Codigo] => 41106
+                    [Valor] => 16,10
+                    [PrazoEntrega] => 5
+                    [ValorSemAdicionais] => 16,10
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => N
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [1] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40010
+                    [Valor] => 17,20
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 17,20
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+            [2] => SimpleXMLElement Object
+                (
+                    [Codigo] => 40215
+                    [Valor] => 27,80
+                    [PrazoEntrega] => 1
+                    [ValorSemAdicionais] => 27,80
+                    [ValorMaoPropria] => 0,00
+                    [ValorAvisoRecebimento] => 0,00
+                    [ValorValorDeclarado] => 0,00
+                    [EntregaDomiciliar] => S
+                    [EntregaSabado] => S
+                    [Erro] => 0
+                    [MsgErro] => SimpleXMLElement Object
+                        (
+                        )
+
+                )
+
+        )
+
+)
+

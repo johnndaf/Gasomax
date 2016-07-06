@@ -1,4 +1,11 @@
 <?php
+/**
+ * Correios Package.
+ *
+ * @package WooCommerce_Correios/Classes
+ * @since   3.0.0
+ * @version 3.0.0
+ */
 
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
@@ -17,27 +24,6 @@ class WC_Correios_Package {
 	protected $package = array();
 
 	/**
-	 * Package minimum height.
-	 *
-	 * @var integer
-	 */
-	protected $minimum_height = 2;
-
-	/**
-	 * Package minimum width.
-	 *
-	 * @var integer
-	 */
-	protected $minimum_width = 11;
-
-	/**
-	 * Package minimum length.
-	 *
-	 * @var integer
-	 */
-	protected $minimum_length = 16;
-
-	/**
 	 * Sets the package.
 	 *
 	 * @param  array $package Package to calcule.
@@ -46,33 +32,6 @@ class WC_Correios_Package {
 	 */
 	public function __construct( $package = array() ) {
 		$this->package = $package;
-	}
-
-	/**
-	 * Set the package minimum height.
-	 *
-	 * @param int $minimum_height
-	 */
-	public function set_minimum_height( $minimum_height ) {
-		$this->minimum_height = intval( $minimum_height );
-	}
-
-	/**
-	 * Set the package minimum width.
-	 *
-	 * @param int $minimum_width
-	 */
-	public function set_minimum_width( $minimum_width ) {
-		$this->minimum_width = intval( $minimum_width );
-	}
-
-	/**
-	 * Set the package minimum length.
-	 *
-	 * @param int $minimum_length
-	 */
-	public function set_minimum_length( $minimum_length ) {
-		$this->minimum_length = intval( $minimum_length );
 	}
 
 	/**
@@ -90,8 +49,6 @@ class WC_Correios_Package {
 
 	/**
 	 * Extracts the weight and dimensions from the package.
-	 *
-	 * @param array $package
 	 *
 	 * @return array
 	 */
@@ -146,9 +103,9 @@ class WC_Correios_Package {
 	/**
 	 * Calculates the cubage of all products.
 	 *
-	 * @param  array $height
-	 * @param  array $width
-	 * @param  array $length
+	 * @param  array $height Package height.
+	 * @param  array $width  Package width.
+	 * @param  array $length Package length.
 	 *
 	 * @return int
 	 */
@@ -171,9 +128,9 @@ class WC_Correios_Package {
 	/**
 	 * Get the max values.
 	 *
-	 * @param  array $height
-	 * @param  array $width
-	 * @param  array $length
+	 * @param  array $height Package height.
+	 * @param  array $width  Package width.
+	 * @param  array $length Package length.
 	 *
 	 * @return array
 	 */
@@ -190,9 +147,10 @@ class WC_Correios_Package {
 	/**
 	 * Calculates the square root of the scaling of all products.
 	 *
-	 * @param  array $height
-	 * @param  array $width
-	 * @param  array $length
+	 * @param  array $height     Package height.
+	 * @param  array $width      Package width.
+	 * @param  array $length     Package length.
+	 * @param  array $max_values Package bigger values.
 	 *
 	 * @return float
 	 */
@@ -214,9 +172,9 @@ class WC_Correios_Package {
 	/**
 	 * Sets the final cubage.
 	 *
-	 * @param  array $height
-	 * @param  array $width
-	 * @param  array $length
+	 * @param  array $height Package height.
+	 * @param  array $width  Package width.
+	 * @param  array $length Package length.
 	 *
 	 * @return array
 	 */
@@ -227,21 +185,21 @@ class WC_Correios_Package {
 		$greatest   = array_search( max( $max_values ), $max_values );
 
 		switch ( $greatest ) {
-			case 'height':
+			case 'height' :
 				$cubage = array(
 					'height' => max( $height ),
 					'width'  => $root,
 					'length' => $root,
 				);
 				break;
-			case 'width':
+			case 'width' :
 				$cubage = array(
 					'height' => $root,
 					'width'  => max( $width ),
 					'length' => $root,
 				);
 				break;
-			case 'length':
+			case 'length' :
 				$cubage = array(
 					'height' => $root,
 					'width'  => $root,
@@ -249,7 +207,7 @@ class WC_Correios_Package {
 				);
 				break;
 
-			default:
+			default :
 				$cubage = array(
 					'height' => 0,
 					'width'  => 0,
@@ -270,17 +228,21 @@ class WC_Correios_Package {
 		// Get the package data.
 		$data = apply_filters( 'woocommerce_correios_default_package', $this->get_package_data() );
 
-		$cubage = $this->get_cubage( $data['height'], $data['width'], $data['length'] );
-
-		$height = ( $cubage['height'] < $this->minimum_height ) ? $this->minimum_height : $cubage['height'];
-		$width  = ( $cubage['width'] < $this->minimum_width ) ? $this->minimum_width : $cubage['width'];
-		$length = ( $cubage['length'] < $this->minimum_length ) ? $this->minimum_length : $cubage['length'];
+		if ( ! empty( $data['height'] ) && ! empty( $data['width'] ) && ! empty( $data['length'] ) ) {
+			$cubage = $this->get_cubage( $data['height'], $data['width'], $data['length'] );
+		} else {
+			$cubage = array(
+				'height' => 0,
+				'width'  => 0,
+				'length' => 0,
+			);
+		}
 
 		return array(
-			'height' => $height,
-			'length' => $length,
-			'width'  => $width,
-			'weight' => $data['weight'],
+			'height' => apply_filters( 'woocommerce_correios_package_height', $cubage['height'] ),
+			'width'  => apply_filters( 'woocommerce_correios_package_width', $cubage['width'] ),
+			'length' => apply_filters( 'woocommerce_correios_package_length', $cubage['length'] ),
+			'weight' => apply_filters( 'woocommerce_correios_package_weight', $data['weight'] ),
 		);
 	}
 }
