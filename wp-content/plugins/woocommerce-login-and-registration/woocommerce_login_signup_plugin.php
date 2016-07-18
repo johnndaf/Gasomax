@@ -5,7 +5,7 @@ Plugin URI: http://phoeniixx.com/
 Description: With this free Sign Up/ Login plugin, you can easily create a sign up and login process for your ecommerce site.
 Author: phoeniixx
 Author URI: http://phoeniixx.com/
-Version: 1.4
+Version: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -1281,7 +1281,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 }
 
 .premium-box-container .pho-desc-head::after {
-    background: rgba(0, 0, 0, 0) url("imges/head-arrow.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("<?php echo $plugin_dir_url; ?>imges/head-arrow.png") no-repeat scroll 0 0;
     content: "";
     height: 98px;
     position: absolute;

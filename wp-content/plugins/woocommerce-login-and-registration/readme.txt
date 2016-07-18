@@ -3,20 +3,14 @@
 Contributors: phoeniixx
 
 Tags: phoeniixx, woocommerce, woocommerce plugins, login, signup, register,signin plugin, page header, shortcode,woocommerce login / signup lite,woocommerce login signup,woocommerce login,woocommerce signup
-
 Requires at least: 4.0
-
 Tested up to: 4.5.2
-Stable tag: 1.4
-
+Stable tag: 1.4.1
 License: GPLv2 or later
-
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-
 With this free Sign Up/ Login plugin, you can easily create a sign up and login process for your ecommerce site. 
-
 
 
 == Description ==
@@ -50,42 +44,46 @@ This plugin allows you to:
 3. Create a Page Header that gives you access to both these pages or popups
 
 
+<blockquote>
+<h4>18 Premium Features</h4>
+<ol>
+<li> <strong>New:</strong> Options to create your own custom registration fields like Name,user name, date of birth,address,contact number by using field types like text box,text area,drop own,date,check box,radio button.You can make the fields mandatory, can show label filled in the Field placeholder.</li>
+<li> <strong>New:</strong> Autoload the login pop up on Checkout page.</li>
+<li> <strong>New:</strong> Separate shotcode for login signup links:
 
+<b>For login</b> [lsphe-header-login]
 
+<b>For signup</b> [lsphe-header-signup] </li>
 
-**Login / Signup Premium Feature:**  
+<li> <strong>New:</strong> Logout link tooltip and icon feature added.</li>
+<li> Font icon added for login signup links </li>
+<li> Option to select a popup layout from three available choices</li>
+<li> Option to Set Popup Style as Lightbox or Dropdown </li>
+<li> Auto Load Popup Option lets you set time (in seconds) after which the popup appears on the loaded page</li>
+<li> You could Enable/Disable Terms & Conditions on Registration Page</li>
+<li> Choice to integrate Social Login Plugin into Popup. This includes option to a.) Enable social login, b.) Upload Facebook icon image, c.) Upload Google+ icon image</li>
+<li> Set social account layout (as up or down)</li>
+<li> You could customize the name of the labels like 'Heading', 'Username Label', 'Password Label' , 'Email Label' etc., in Login Form, Register Form & Pop Open link </li>
+<li> Styling Options for Advanced Customization includes choice to select BG Color, BG Image, Border Color, Size & Style, Popup & Button's Color, Font Size, Border etc.</li>
+<li> Other advanced Customization Settings Options include- setting field placeholder (for Username, Email & Password), link label (for Forget Password, Login, Register) etc.</li>
+<li> You could add description in the Description Box available for 'Login' & 'Register'</li>
+<li> You could set a Popup 'Entrance' Effect from the given list of Effects, that includes bounceIn, fadIn, slideInUp, rotateIn and more such options<li>
+<li> You could also set a Popup 'Exit' Effect like bounceOut, fadeOut, rotateOut & slideOutUp</li>
+<li> The Pop up is mobile compatible</li>
+</ol>
+<ul>
+<li> <a href="http://phoeniixx.com/demo/woocommerce/woocommerce-signup-login/">Demo of Premium Version Pop up</a> | <a href="http://phoeniixx.com/demo/woocommerce/woocommerce-signup-login/login-signup-form/">Demo of Premium Version Shortcodes</a> | <a href="http://www.phoeniixx.com/product/woocommerce-login-signup/">Buy Premium Plugin</a></li>
+</ul>
+</blockquote>
 
-1. **New:** Options to create your own custom registration fields like Name,user name, date of birth,address,contact number by using field types like text box,text area,drop own,date,check box,radio button.You can make the fields mandatory, can show label filled in the Field placeholder.
-2. **New:** Autoload the login pop up on Checkout page.
-3. **New:** Separate shotcode for login signup links:
+<blockquote>
+<h4>Our Premium Themes</h4>
+<ul>
+<li> Jstore Theme - <a href="https://phoeniixx.com/demo/themes/jstore/">View Live Demo</a> | <a href="https://www.phoeniixx.com/product/jstore-theme/">Buy Premium Theme</a></li>
+</ul>
+<p></p>
+</blockquote>
 
-**For login** [lsphe-header-login]
-
-**For signup** [lsphe-header-signup]
-
-4. **New:** Logout link tooltip and icon feature added.
-5. Font icon added for login signup links
-6.	Option to select a popup layout from three available choices
-7.	Option to Set Popup Style as Lightbox or Dropdown 
-8.	Auto Load Popup Option lets you set time (in seconds) after which the popup appears on the loaded page
-9.	You could Enable/Disable Terms & Conditions on Registration Page
-10.	Choice to integrate Social Login Plugin into Popup. This includes option to a.) Enable social login, b.) Upload Facebook icon image, c.) Upload Google+ icon image
-11.	Set social account layout (as up or down)
-12.	You could customize the name of the labels like 'Heading', 'Username Label', 'Password Label' , 'Email Label' etc., in Login Form, Register Form & Pop Open link 
-13.	Styling Options for Advanced Customization includes choice to select BG Color, BG Image, Border Color, Size & Style, Popup & Button's Color, Font Size, Border etc.
-14.	Other advanced Customization Settings Options include- setting field placeholder (for Username, Email & Password), link label (for Forget Password, Login, Register) etc.
-15.	You could add description in the Description Box available for 'Login' & 'Register'
-16.	You could set a Popup 'Entrance' Effect from the given list of Effects, that includes bounceIn, fadIn, slideInUp, rotateIn and more such options
-17.	You could also set a Popup 'Exit' Effect like bounceOut, fadeOut, rotateOut & slideOutUp
-18.	The Pop up is mobile compatible
-
-
-
-**Premium Plugin Link** - [Click Here](http://www.phoeniixx.com/product/woocommerce-login-signup/)
-
-**Demo of Premium Version Pop up**- [Click Here](http://phoeniixx.com/demo/woocommerce/woocommerce-signup-login/)
-
-**Demo of Premium Version Shortcodes**- [Click Here](http://phoeniixx.com/demo/woocommerce/woocommerce-signup-login/login-signup-form/)
 
 **Support Email :** - [support@phoeniixx.com](mailto:support@phoeniixx.com)
 
@@ -123,6 +121,9 @@ This plugin allows you to:
 
 == Changelog ==
 
+
+==1.4.1 - 11/07/2016 =
+* Fixes.
 
 ==1.4 - 29/06/2016 =
 * Warning Fixes.

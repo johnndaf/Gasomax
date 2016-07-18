@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 			<div class="page-header">
 
 				<?php woocommerce_catalog_ordering(); ?>
-                                <?php get_product_search_form(); ?>
+                <?php get_product_search_form(); ?>
 				<h1 class="page-title"><?php woocommerce_page_title(); ?></h1>
 				<?php woocommerce_result_count(); ?>
 				</div>
