@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-21 20:19:02+0000\n"
+"PO-Revision-Date: 2016-07-22 08:39:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1506,7 +1506,7 @@ msgstr "Este item de menu foi eliminado com sucesso."
 
 #: wp-admin/nav-menus.php:360
 msgid "The menu has been successfully deleted."
-msgstr "O menu foi apagado com sucesso."
+msgstr "O menu foi eliminado com sucesso."
 
 #: wp-admin/nav-menus.php:377
 msgid "Selected menus have been successfully deleted."
@@ -1538,7 +1538,7 @@ msgstr "Nesta página pode:"
 
 #: wp-admin/nav-menus.php:619
 msgid "Create, edit, and delete menus"
-msgstr "Criar, editar e apagar menus"
+msgstr "Criar, editar e eliminar menus"
 
 #: wp-admin/nav-menus.php:620
 msgid "Add, organize, and modify individual menu items"
@@ -2678,11 +2678,11 @@ msgstr "%1$s de %2$s"
 
 #: wp-admin/plugins.php:317
 msgid "Are you sure you wish to delete these files and data?"
-msgstr "Tem a certeza que pretende apagar estes ficheiros e dados?"
+msgstr "Tem a certeza que pretende eliminar estes ficheiros e dados?"
 
 #: wp-admin/plugins.php:319
 msgid "Are you sure you wish to delete these files?"
-msgstr "Tem a certeza de que pretende eliminar estes ficheiros?"
+msgstr "Tem a certeza que pretende eliminar estes ficheiros?"
 
 #: wp-admin/plugins.php:330
 msgid "Yes, delete these files and data"
@@ -2690,7 +2690,7 @@ msgstr "Sim, eliminar estes ficheiros e dados"
 
 #: wp-admin/plugins.php:330
 msgid "Yes, delete these files"
-msgstr "Sim, apagar estes ficheiros"
+msgstr "Sim, eliminar estes ficheiros"
 
 #: wp-admin/plugins.php:336
 msgid "No, return me to the plugin list"
@@ -3321,7 +3321,7 @@ msgstr "Instalações activas:"
 
 #: wp-admin/includes/plugin-install.php:567
 msgid "WordPress.org Plugin Page &#187;"
-msgstr "Página de Plugins do WordPress.org &#187;"
+msgstr "Página do plugin no WordPress.org &#187;"
 
 #: wp-admin/includes/plugin-install.php:569
 msgid "Plugin Homepage &#187;"
@@ -5412,7 +5412,7 @@ msgstr "Categoria adicionada."
 
 #: wp-admin/includes/edit-tag-messages.php:25
 msgid "Category deleted."
-msgstr "Categoria apagada."
+msgstr "Categoria eliminada."
 
 #: wp-admin/includes/edit-tag-messages.php:26
 msgid "Category updated."
@@ -5428,7 +5428,7 @@ msgstr "Categoria não actualizada."
 
 #: wp-admin/includes/edit-tag-messages.php:29
 msgid "Categories deleted."
-msgstr "Categorias apagadas."
+msgstr "Categorias eliminadas."
 
 #: wp-admin/includes/edit-tag-messages.php:34
 msgid "Tag added."
@@ -5436,7 +5436,7 @@ msgstr "Etiqueta adicionada."
 
 #: wp-admin/includes/edit-tag-messages.php:35
 msgid "Tag deleted."
-msgstr "Etiqueta apagada."
+msgstr "Etiqueta eliminada."
 
 #: wp-admin/includes/edit-tag-messages.php:36
 msgid "Tag updated."
@@ -5452,7 +5452,7 @@ msgstr "Etiqueta não actualizada."
 
 #: wp-admin/includes/edit-tag-messages.php:39
 msgid "Tags deleted."
-msgstr "Etiquetas apagadas."
+msgstr "Etiquetas eliminadas."
 
 #: wp-admin/includes/file.php:16
 msgid "Theme Functions"
@@ -10551,8 +10551,8 @@ msgstr[1] "%s artigos não actualizados, há alguém a editá-los."
 #: wp-admin/edit.php:272
 msgid "%s post permanently deleted."
 msgid_plural "%s posts permanently deleted."
-msgstr[0] "%s artigo apagado permanentemente."
-msgstr[1] "%s artigos apagados permanentemente."
+msgstr[0] "%s artigo eliminado permanentemente."
+msgstr[1] "%s artigos eliminados permanentemente."
 
 #: wp-admin/edit.php:273
 msgid "%s post moved to the Trash."
@@ -10585,8 +10585,8 @@ msgstr[1] "%s páginas não actualizadas, há alguém a editá-las."
 #: wp-admin/edit.php:280
 msgid "%s page permanently deleted."
 msgid_plural "%s pages permanently deleted."
-msgstr[0] "%s página apagada permanentemente."
-msgstr[1] "%s páginas apagadas permanentemente."
+msgstr[0] "%s página eliminada permanentemente."
+msgstr[1] "%s páginas eliminadas permanentemente."
 
 #: wp-admin/edit.php:281
 msgid "%s page moved to the Trash."
